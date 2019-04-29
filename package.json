@@ -34,7 +34,7 @@
     "tap": "^10.7.2"
   },
   "dependencies": {
-    "superagent": "^3.6.0"
+    "superagent": "^5.0.5"
   },
   "nyc": {
     "include": [
